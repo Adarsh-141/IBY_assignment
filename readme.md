@@ -1,7 +1,7 @@
-NAME:adarsh
-dept:civil engineering
-rollno:23b0649
-mail:23b0649@iitb.ac.in
+# name:adarsh
+# dept:civil engineering
+# rollno:23b0649
+# mail:23b0649@iitb.ac.in
 
 
 # 🤖 Code-Mentor AI Agent
